@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bloos3rpent</h1>
-<h3 align="center">A grayhat hacker from philipppines</h3>
+<h3 align="center">A grayhat hacker from philippines</h3>
 
 - 🔭 I’m currently working on [GHP SH3LL](https://github.com/bloos3rpent/ghp_shell)
 
