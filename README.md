@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Bloos3rpent</h1>
 <h3 align="center">A GreyHat Hacker From Philippines</h3>
 
-- 🔭 I’m currently working on [GHP SH3LL](https://google.com@javascript:alert`1`)
+- 🔭 I’m currently working on [GHP SH3LL](https://github.com/bloos3rpent/ghp_shell)
 
 - 📫 How to reach me **blooserpent@gmail.com**
 
