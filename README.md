@@ -2,8 +2,9 @@
 
 <h3 align="center">A GreyHat Hacker From Philippines</h3>
 
-- [![Webshell](https://img.shields.io/static/v1?label=&message=GrayHat&color=lightgray)]()
+[![Webshell](https://img.shields.io/static/v1?label=&message=GrayHat&color=lightgray)]()
 [![Webshell](https://img.shields.io/static/v1?label=&message=Defacer&color=red)]()
+[![Webshell](https://img.shields.io/static/v1?label=&message=BugHunter&color=green)]()
 
 - 🔭 I’m currently working on [GHP SH3LL](https://github.com/bloos3rpent/ghp_shell)
 
