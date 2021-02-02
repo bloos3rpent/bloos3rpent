@@ -7,8 +7,9 @@
 [![Webshell](https://img.shields.io/static/v1?label=&message=Defacer&color=red)]()
 [![Webshell](https://img.shields.io/static/v1?label=&message=BugHunter&color=green)]()
 
-![alt text](https://i.ibb.co/zxLw7WY/Vanilla-0-3s-267px.gif)
-
+<p align="center">
+  <img src="https://i.ibb.co/zxLw7WY/Vanilla-0-3s-267px.gif" width="100%" title="hover text">
+</p>
 - 🔭 I’m currently working on [GHP SH3LL](https://github.com/bloos3rpent/ghp_shell)
 
 - 📫 How to reach me **blooserpent@gmail.com**
